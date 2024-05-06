@@ -24,5 +24,6 @@ DoItNow is a simple task management web application built with React. It allows 
 - To delete a task, click the delete icon next to the task.
 - Use the checkbox labeled "Show Completed Task(s)" to toggle the visibility of completed tasks.
 
-##Contribution
+## Contribution
+
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
