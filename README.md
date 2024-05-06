@@ -27,3 +27,5 @@ DoItNow is a simple task management web application built with React. It allows 
 ## Contribution
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+<a href = "https://www.linkedin.com/in/shubhamaggarwal0812/" target="_blank">LinkedIn</a>
